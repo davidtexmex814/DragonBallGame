@@ -1,0 +1,11 @@
+canvas {
+    border: solid white;
+    margin: 110px 0px 0px 95px;
+}
+body {
+    background: url("/Users/davidmolina814/Desktop/myJuegoCanvas/img/etiquetas-volta-as-aulas-dragon-ball-super-4.jpg");
+    background-size: cover;
+} 
+.inicia {
+    margin: -540px 0px 0 1045px;
+}
